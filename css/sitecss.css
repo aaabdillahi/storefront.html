@@ -1,0 +1,295 @@
+		/********************************************************************  
+
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. 
+No part of this assignment has been copied manually or electronically from any other source (including web sites)
+except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.  
+I also declare that no part of this assignment has been distributed to other students. 
+
+Name: Isaac(Awale) Abdillahi  Dated: 09/04/2020  
+
+********************************************************************/  
+		
+		.container{
+			width:1320px;
+			margin:0 auto;
+		}
+		
+		header {
+			background: #DCF4F0;
+    			background: -moz-linear-gradient(left, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+    			background: -webkit-linear-gradient(left, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+    			background: linear-gradient(to right, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+			padding:5px 25px;
+			font-family: Impact, Charcoal, sans-serif;
+			font-size: 29px;
+			letter-spacing: -0.8px;
+			word-spacing: -1.4px;
+			color: #000000;
+			font-weight: 700;
+			text-decoration: underline solid rgb(68, 68, 68);
+			font-style: normal;
+			font-variant: normal;
+			text-transform: uppercase;
+			text-align: center;
+		}
+		
+		nav{
+			border: 6px groove #000000;
+			padding:8px;
+			background-color: #444;
+		}
+		
+		nav ul{
+			list-style-type: none;
+			padding-left:20px;
+			margin:0px;
+		}
+		
+		nav ul li{
+			display:inline-block;
+			background-color: #444;
+			text-align: center;
+			text-align: center;
+		}
+		
+		nav ul li a{
+			background-color: #444;
+			color: #eee;
+			text-decoration: none;
+			padding:0 5px;	
+			font-weight:bold;
+			text-transform: uppercase;
+			font-size:15px;
+		}
+		
+		aside {
+			float: left;
+			width:190px;
+			margin-right:20px;
+		}
+		
+		aside a {
+			background-color:#e5e5e5;
+ 			padding:8px;
+  			margin-top:7px;
+  			display:block;
+  			width:50%;
+  			color:black;
+		}
+		
+		.main{
+			border: 6px outset #A40000;
+			float:left;
+			width: 850px;
+			padding-bottom:10px;
+			margin-right:20px;
+		}
+		h2{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		.ads{
+			float: left;
+			width:180px;
+		}
+		
+		footer{
+			clear:both;
+			background-color: #CDCDCD;
+			color: #eee;
+			padding:10px;
+			color: red;
+		}
+		
+		footer h2{
+			margin:0px;
+			text-transform: uppercase;
+			font-size:13px;
+			padding:0 5px;	
+		}
+
+	@media only screen and (max-width:620px) {
+  			/* For mobile phones: */
+  			.menu, .main, .right, aside, .ads, .container{
+    			width:100%;
+ 		 }
+		  }
+		div {
+			background: #DCF4F0;
+    			background: -moz-linear-gradient(left, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+    			background: -webkit-linear-gradient(left, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+    			background: linear-gradient(to right, #DCF4F0 0%, #B9D6FF 36%, #BEBAA1 100%);
+                }
+
+		#VivoPC {
+			border-style: double;
+			
+		}
+
+		#VivoPC img {
+			height: 180px;
+			width: 175px;
+			float: right;
+			overflow: auto;
+		}
+		#VivoPC h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#VivoPC h4{
+			font-weight: bold;
+			font-size: 16px;
+		}
+
+		#VivoPC li{
+			overflow: auto;
+		}
+
+		#BigO {
+			border-style: double;
+		}
+
+		#BigO img {
+			height: 175px;
+			width: 175px;
+			float: right;
+		}
+		#BigO h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#BigO h4{
+			font-weight: bold;
+    			font-size: 16px;
+		}
+		
+		#BigO li{
+			overflow: auto;
+		}
+
+		#RyZen{
+			border-style: double;
+		}
+
+		#RyZen img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#RyZen li {
+			overflow: auto;
+		}
+
+		#RyZen{
+			border-style: double;
+		}
+
+		#RyZen img {
+			height: 180px;
+			width: 180px;
+			float: right;
+			overflow: auto;
+		}
+
+		#RyZen li {
+			overflow: auto;
+		}
+		
+		#RyZen h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#RyZen h4{
+			font-weight: bold;
+    			font-size: 16px;
+		}
+
+		#InfiniteX{
+			border-style: double;
+		}
+
+		#InfiniteX img {
+			height: 180px;
+			width: 180px;
+			float: right;
+			overflow: auto;
+		}
+
+		#InfiniteX li {
+			overflow: auto;
+		}
+		#InfiniteX h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#InfiniteX h4{
+			font-weight: bold;
+    			font-size: 16px;
+		}
+
+		#STRIX{
+			border-style: double;
+		}
+
+		#STRIX img {
+			height: 180px;
+			width: 180px;
+			float: right;
+			overflow: auto;
+		}
+
+		#STRIX li {
+			overflow: auto;
+		}
+		#STRIX h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#STRIX h4{
+			font-weight: bold;
+    			font-size: 16px;
+		}
+
+		#EVO16{
+			border-style: double;
+		}
+
+		#EVO16 img {
+			height: 180px;
+			width: 170px;
+			float: right;
+			overflow: auto;
+		}
+
+		#EVO16 li {
+			overflow: auto;
+		}
+		#EVO16 h3{
+    			font-weight: bold;
+    			text-align: center;
+    			font-size: 35px;
+    			text-shadow: rgb(97, 55, 0) 2px 2px 2px;
+		}
+		#EVO16 h4{
+			font-weight: bold;
+    			font-size: 16px;
+		}
+
+		img{
+			height: 115px;
+			width: 185px;
+		}
