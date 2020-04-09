@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8"/>
+   <title>Final</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+   <link rel='stylesheet' href='css/sitecss.css' type='text/css' media='screen'>
+</head>
+<body>
+   <div class="container">
+      <header>
+        <h1>Final Assignment</h1>
+      </header>
+      <nav>
+         <ul>
+            <li> <a href="https://www.originpc.com/"> Origin </a> </li>
+            <li> <a href="https://www.cyberpowerpc.com/"> CyberPower </a> </li>
+            <li> <a href="https://ca.msi.com/Landing/the-game-just-got-real/nb"> MSI </a> </li>
+            <li> <a href="https://www.asus.com/ca-en/"> Asus </a> </li>
+         </ul>
+      </nav>
+      <aside>
+        <h3>About</h3>
+        <p>This webpage will list several powerful gaming computers and where you can buy them.
+            <br><br>
+            <b>The links above will bring you to the websites where you can find these products.</b>
+        </p>
+        
+            <a href="storefront.html">Store Front</a>
+            <a href="reflect.html">Reflection</a>
+    
+      </aside>
+      <section class="main">
+          <h2>Gaming Computers & Specs</h2>
+
+          <div id="VivoPC">
+          <h3> Asus VIVOPC X </h3>
+          <img src="images/vivoPC.jpg" alt="VivoPC">
+          <h4> Computer Specs </h4>
+          <ul>
+              <li>- 2.5-inch 2TB SATA Hard Drive & 512GB M.2 SATA SSD </li>
+              <li>- Intel® Core™ i5 7300HQ & 3.2GHz (Quad-Core) </li>
+              <li>- NVIDIA GeForce GTX1060 </li>
+          </ul>
+
+          <h4> Price </h4>
+          <a href="https://www.asus.com/ca-en/Tower-PCs/ASUS-VivoPC-X/"> ASUS </a>     
+          <span> $849.99 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+
+
+          <div id="BigO">
+              <h3> BIG O </h3>
+              <img src="images/BigO.jpg" alt="BigO">
+              <h4> Computer Specs </h4>
+          <ul>
+              <li>- Default 1TB mechanical drive </li>
+              <li>- NVIDIA 6GB GeForce GTX 1660 SUPER </li>
+              <li>- Intel Core i5 9600K 6-Core 3.7GHz (4.6GHz TurboBoost) </li>
+          </ul>
+                    <h4> Price </h4>
+          <a href="https://www.originpc.com/gaming/desktops/big-o/"> Origin PC </a>     
+          <span> $2,499.99 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+
+          
+          <div id="RyZen">
+              <h3> DAILY DEAL RYZEN VR </h3>
+              <img src="images/RyZen.png" alt="RyZen">
+              <h4> Computer Specs </h4>
+          <ul>
+              <li>- AMD Ryzen 7 3800X Processor </li>
+              <li>- 16GB Vengeance 3000MHz RAM </li>
+              <li>- ASUS PRIME X570-P RGB Motherboard </li>
+          </ul>
+                    <h4> Price </h4>
+          <a href="https://www.cyberpowerpc.com/system/Daily-Deal-RyZen-VR-Sale"> CyberPower PC</a>     
+          <span> $1,629.99 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+
+
+            <div id="InfiniteX">
+              <h3> INFINITE X PLUS 9th </h3>
+              <img src="images/msi.jpg" alt="InfiniteX">
+              <h4> Computer Specs </h4>
+          <ul>
+              <li>- 9th Gen Intel® Core™ i9 -9900K processor with DDR4 memory </li>
+              <li>- Up to MSI GeForce® RTX 2080 Ti 11GB GDDR6 graphics </li>
+              <li>- Super speed USB 3.1 Gen 1 Type C with reversible design </li>
+          </ul>
+                    <h4> Price </h4>
+          <a href="https://ca.msi.com/Desktop/Infinite-X-Plus-9th"> MSI </a>     
+          <span> $3,999.97 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+
+
+            <div id="STRIX">
+              <h3> ASUS GAMING DESKTOP ROG STRIX </h3>
+              <img src="images/strix.jpg" alt="STRIX">
+              <h4> Computer Specs </h4>
+          <ul>
+              <li>- AMD® RYZEN R7-3800X Processors </li>
+              <li>- NVIDIA® GeForce RTX™ 2060 6GB </li>
+              <li>- 3.5" 1TB Up to 2TB Hard Drive </li>
+          </ul>
+                    <h4> Price </h4>
+          <a href="https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-Strix-GL10DH/"> ASUS </a>     
+          <span> $1,099.99 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+
+
+              <div id="EVO16">
+              <h3> ORIGIN PC EVO16-S </h3>
+              <img src="images/originpewds.png" alt="Evo16">
+              <h4> Computer Specs </h4>
+          <ul>
+              <li>- Intel Core i7-9750H </li>
+              <li>- Nvidia GeForce RTX 2080 Max-Q </li>
+              <li>- 16 GB G.Skill Ripjaws 2666MHz (2 X 8GB) </li>
+          </ul>
+                    <h4> Price </h4>
+          <a href="https://old.originpc.com/promotion/2019/pewdiepie-evo16-s-giveaway/"> Origin PC </a>     
+          <span> $2,821.96 <b>prices may vary</b>  </span>
+          <br><br><br>
+          </div>
+      </section>
+	  <section class="ads">
+	   <h3>ASUS</h3>
+       <a href="https://www.asus.com/ca-en/">
+        <img src="images/asus.jpg" alt="ad-1 asus">
+       </a>
+		<h3>ORIGIN PC</h3>
+        <a href="https://www.originpc.com/">
+        <img src="images/origin.png" alt="ad-2 origin">
+       </a>
+		<h3>MSi</h3>
+         <a href="https://ca.msi.com/Landing/the-game-just-got-real/nb">
+        <img src="images/msilogo.png" alt="ad-3 msi">
+         </a>
+	  </section>
+
+	<footer>©2020 - &lt;Isaac(Awale) Abdillahi&gt; Part B <a href="https://aaabdillahi.github.io/storefront.html">link to store front</a></footer>
+
+   </div>
+  </div>
+
+</body>
+  
+
+</html>
+
+<!--
+/********************************************************************  
+
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. 
+No part of this assignment has been copied manually or electronically from any other source (including web sites)
+except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.  
+I also declare that no part of this assignment has been distributed to other students. 
+
+Name: Isaac(Awale) Abdillahi  Dated:  09/04/2020
+
+********************************************************************/  
+-->
